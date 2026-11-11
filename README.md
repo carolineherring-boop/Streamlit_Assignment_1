@@ -1,10 +1,12 @@
 # Trip Budget Planner
 
 ## Student Name
-Your Name Here
+Caroline Herring
 
 ## App Description
-Trip Budget Planner is a Streamlit app that helps people plan trips that fit their budget and then stick to it. It works in two modes. In **"Where can I go?"** mode, the user enters a total budget, trip length, departure city, and optionally a travel month and vibe (beach, city, nature, and so on), and the app suggests destinations that fit, ranked by how well they match. In **"What will this cost?"** mode, the user picks a destination and a number of days, and the app estimates the budget broken down by category (flights, lodging, food, activities). Once a trip is chosen, the user can save it and log actual spending against the estimate, so the app works as a budget tracker and not just a calculator.
+Trip Budget Planner is a Streamlit app that helps people plan trips that fit their budget and then stick to it. It works in two modes. 
+In **"Where can I go?"** mode, the user enters a total budget, trip length, departure city, and optionally a travel month and vibe (beach, city, nature, and so on), and the app suggests destinations that fit, ranked by how well they match. 
+In **"What will this cost?"** mode, the user picks a destination and a number of days, and the app estimates the budget broken down by category (flights, lodging, food, activities). Once a trip is chosen, the user can save it and log actual spending against the estimate, so the app works as a budget tracker and not just a calculator.
 
 Data will be stored in a Supabase database with three tables:
 
